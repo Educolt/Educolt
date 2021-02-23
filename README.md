@@ -1,4 +1,4 @@
-<img width="auto" style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/24902151?s=460&u=aaccad4cadf1ca5dbee33a9c89d75325a23b899b&v=4">
+<img width="250px" src="https://avatars.githubusercontent.com/u/24902151?s=460&u=aaccad4cadf1ca5dbee33a9c89d75325a23b899b&v=4">
 
 # Eduardo Caldas Coutinho
 
