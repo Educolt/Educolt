@@ -10,7 +10,6 @@ Sou um FullStack Developer :computer:.
 <br/> :blush: &nbsp; Posso te ajudar com javascript, Node, React...
 <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript.
 <br/> :speech_balloon:  &nbsp; Sobre mim: Curto tecnologias, games, LoL, Basquete :basketball:, Música :musical_note:...
-
 <table>
   <tr>
     <td>
@@ -29,6 +28,8 @@ Sou um FullStack Developer :computer:.
     </td>
   </tr>
 </table>
-
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EduardoCoutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-coutinho/)](https://www.linkedin.com/in/eduardo-coutinho-190a27128/) 
 <br/>:email:: eduardo.coutinho.dev@outlook.com.
+
+### 🧔 Desenvolvedor
+Desenvolvido 💜 por Eduardo caldas Coutinho.
