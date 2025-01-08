@@ -28,6 +28,7 @@ Sou um FullStack Developer :computer:.
     </td>
   </tr>
 </table>
+
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EduardoCoutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-coutinho/)](https://www.linkedin.com/in/eduardo-coutinho-190a27128/) 
 <br/>:email:: eduardo.coutinho.dev@outlook.com.
 
