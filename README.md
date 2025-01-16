@@ -8,7 +8,7 @@ Sou um FullStack Developer :computer:.
 
 <br/> :heart: &nbsp; Buscando colaborar com projetos em Front-end usando React.
 <br/> :blush: &nbsp; Posso te ajudar com javascript, Node, React...
-<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript.
+<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native.
 <br/> :speech_balloon:  &nbsp; Sobre mim: Casado 👩🏻‍❤️‍👨🏻, 25 anos 👨🏻‍💻, Curto tecnologias, games, LoL, Basquete :basketball:, Música :musical_note:...
 <table>
   <tr>
