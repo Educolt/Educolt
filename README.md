@@ -43,9 +43,6 @@ Sou um FullStack Developer :computer:.
   <img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/AdonisJS-%23318C4E?style=for-the-badge&logo=adonisjs&logoColor=white" />
 </div>
-
-:email:: eduardo.coutinho.dev@outlook.com
-
 ---
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EduardoCoutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-coutinho/)](https://www.linkedin.com/in/eduardo-coutinho-190a27128/) 
