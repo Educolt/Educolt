@@ -36,7 +36,7 @@ Sou um FullStack Developer :computer:.
 
 ## 🚀 Frameworks & Bibliotecas que mais uso
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -44,7 +44,29 @@ Sou um FullStack Developer :computer:.
   <img src="https://img.shields.io/badge/AdonisJS-%23318C4E?style=for-the-badge&logo=adonisjs&logoColor=white" />
 </div>
 
-> ✨ Sempre contribuindo com o ecossistema fullstack usando ferramentas modernas e bem estruturadas!
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=Educolt&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educolt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+:email:: eduardo.coutinho.dev@outlook.com
+
+---
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EduardoCoutinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-coutinho/)](https://www.linkedin.com/in/eduardo-coutinho-190a27128/) 
 <br/>:email:: eduardo.coutinho.dev@outlook.com.
