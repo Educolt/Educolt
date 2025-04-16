@@ -44,26 +44,6 @@ Sou um FullStack Developer :computer:.
   <img src="https://img.shields.io/badge/AdonisJS-%23318C4E?style=for-the-badge&logo=adonisjs&logoColor=white" />
 </div>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Educolt&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Educolt&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
 :email:: eduardo.coutinho.dev@outlook.com
 
 ---
