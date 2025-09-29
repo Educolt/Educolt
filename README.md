@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A277FFE8&width=435&lines=Hi+There+!%F0%9F%91%8B;I'm+Eduardo+Coutinho)](https://git.io/typing-svg)
 
-### Hi there 👋
 Gosto muito de aprender algo novo :seedling:, pra mim todo conhecimento importa ! :blush:<br/>
 Sou um FullStack Developer :computer:.
 
