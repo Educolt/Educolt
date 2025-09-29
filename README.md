@@ -1,6 +1,6 @@
 <img width="250px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24902151?s=460&u=aaccad4cadf1ca5dbee33a9c89d75325a23b899b&v=4">
 
-# Eduardo Caldas Coutinho
+# <img src="https://readme-typing-svg.herokuapp.com/demo/?color=A277FFE8&lines=Hi+There+!%F0%9F%91%8B;I'm+Eduardo+Coutinho" />
 
 ### Hi there 👋
 Gosto muito de aprender algo novo :seedling:, pra mim todo conhecimento importa ! :blush:<br/>
