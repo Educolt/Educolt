@@ -1,6 +1,6 @@
 <img width="250px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/24902151?s=460&u=aaccad4cadf1ca5dbee33a9c89d75325a23b899b&v=4">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A277FFE8&width=435&lines=Hi+There+!%F0%9F%91%8B;I'm+Eduardo+Coutinho)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A277FFE8&width=435&lines=Hi+There+!%F0%9F%91%8B;I'm+Eduardo+Coutinho)](https://git.io/typing-svg)
 
 ### Hi there 👋
 Gosto muito de aprender algo novo :seedling:, pra mim todo conhecimento importa ! :blush:<br/>
