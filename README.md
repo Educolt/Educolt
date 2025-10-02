@@ -46,7 +46,7 @@ Sou um FullStack Developer :computer:.
 <br/>:email:: eduardo.coutinho.dev@outlook.com.
 <br/>🌐: https://devfolio-27k2.onrender.com
 
-![snake gif](https://github.com/Educolt/Educolt/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/EduardoCCoutinh/EduardoCCoutinho/blob/output/github-snake-dark.svg)
 
 ### 👨🏻‍💻 Desenvolvedor
 Desenvolvido 💜 por Eduardo caldas Coutinho.
